@@ -1,0 +1,17 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "api rick and morti promises",
+  "main": "scr/index.js",
+  "scripts": {
+    "promises": "node src/index.js"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "Milton Mora",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
