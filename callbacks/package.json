@@ -1,0 +1,17 @@
+{
+  "name": "callbacks",
+  "version": "1.0.0",
+  "description": "llamadas a la api por callbacks",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/index.js"
+  },
+  "keywords": [
+    "callbacks"
+  ],
+  "author": "Milton Mora",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
