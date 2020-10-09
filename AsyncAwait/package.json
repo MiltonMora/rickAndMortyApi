@@ -1,0 +1,17 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "description": "Rick and Morty api whit Async Await",
+  "main": "scr/index.js",
+  "scripts": {
+    "async": "node src/index.js"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "Milton Mora",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
